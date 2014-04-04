@@ -1,7 +1,6 @@
 public class Solution {
 	/*
 	procedure:
-	 */
 	1)	reverse order is the most large, so we need to find the one which is not in
 		reverse order, when num[i+1] is more than num[i]
 	2)	then we need to find the one in num[i+1] to num[len-1] which is closet to this
